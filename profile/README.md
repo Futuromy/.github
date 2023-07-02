@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="images/logo.png" alt="Futuromy Logo">
+  <img src="https://raw.githubusercontent.com/Futuromy/.github/main/profile/images/logo.png" alt="Futuromy Logo">
 </p>
 
 # Welcome to Futuromy! :rocket:
